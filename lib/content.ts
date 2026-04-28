@@ -132,14 +132,14 @@ export const events: EventCard[] = [
     title: "DJ NARA · Rooftop Sessions",
     date: "Sat, 10 May 2026",
     image:
-      "https://images.unsplash.com/photo-1571266028243-e8b70d042a5a?w=800&q=80",
+      "https://h.top4top.io/p_3769g9sbc1.jpg",
     note: "Deep house & disco · doors 20:00",
   },
   {
-    title: "Sunday Jazz Brunch",
-    date: "Sun, 18 May 2026",
+    title: "Whatch Together With 88Society",
+    date: "Thursday, 30 May 2026",
     image:
-      "https://images.unsplash.com/photo-1415201361794-1c9a000ccd5a?w=800&q=80",
+      "https://e.top4top.io/p_3769rf7os1.jpg",
     note: "Live quartet · chef’s brunch menu · reservations recommended",
   },
 ];
