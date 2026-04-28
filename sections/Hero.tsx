@@ -13,7 +13,7 @@ export function Hero() {
     >
       <div className="absolute inset-0">
         <Image
-          src="https://images.unsplash.com/photo-1514362545857-f57bc8b1af00?w=1920&q=85"
+          src="https://h.top4top.io/p_3769s3xhg1.png"
           alt="Rooftop city lights at night"
           fill
           priority

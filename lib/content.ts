@@ -87,8 +87,8 @@ export const galleryImages = [
     tall: true,
   },
   {
-    src: "https://images.unsplash.com/photo-1429963354354-fcd2f29045ef?w=900&q=80",
-    alt: "Live DJ performance with crowd",
+    src: "https://g.top4top.io/p_3769x9pro1.jpg",
+    alt: "Live Musik In 88Society",
     tall: false,
   },
   {
